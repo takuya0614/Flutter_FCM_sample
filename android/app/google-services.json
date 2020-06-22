@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995755276770",
+    "firebase_url": "https://fcmtest-e58de.firebaseio.com",
+    "project_id": "fcmtest-e58de",
+    "storage_bucket": "fcmtest-e58de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995755276770:android:88383eca390a9389e261bb",
+        "android_client_info": {
+          "package_name": "hayashida.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995755276770-4cu4v0orlnokujfkgi85erq1st7p8dfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1jvoJREzpbwML3npIpvVhuBHVrUSgNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995755276770-4cu4v0orlnokujfkgi85erq1st7p8dfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
